@@ -17,7 +17,7 @@ and</br>
 Lorem ipsum dolor sit amit.</br>
 
 ## Output
-Lorem ipsum dolor sit amit.</br>
+This subsystem provides an output distributable consisting of _[explanation]_ packaged in _[format]_ format.</br>
 
 [^project_link]: url link
 [^prev_link]: url link
