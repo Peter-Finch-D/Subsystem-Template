@@ -1,5 +1,5 @@
-# Repository Template
-![Workflow Diagram](http://www.plantuml.com/plantuml/dpng/SoWkIImgAStDuShCAoWjKT1LICxFBSZFIyqhCUH2C87Y7gb5gNfm4ICkD3woJcCk11CedbzQ0ZIQoo4rBmLe4G00)</br>
+# Subsystem Template
+![Workflow Diagram](http://www.plantuml.com/plantuml/dpng/SoWkIImgAStDuShCAoWjKT1LICxFBSZFIyqhCUH2C87Y7gb5gNfm4ICkD3woJcCk11CedbzQ0ZIQoo4rBmLe4G00)[^diagram1]</br>
 This repository is subsystem number [_X_] of the workflow for project [project name][^project_link]. The previous workflow subsystem is [previous workflow subsystem][^prev_link], and the next workflow subsystem is [next workflow subsystem][^next_link].
 
 ## Subsystem Workflow
@@ -22,4 +22,5 @@ Lorem ipsum dolor sit amit.</br>
 [^project_link]: url link
 [^prev_link]: url link
 [^next_link]: url link
+[^diagram1]: http://www.plantuml.com/plantuml/duml/SoWkIImgAStDuShCAoWjKT1LICxFBSZFIyqhCUH2C87Y7gb5gNfm4ICkD3woJcCk11CedbzQ0ZIQoo4rBmLe4G00
 [^diagram2]: http://www.plantuml.com/plantuml/duml/SoWkIImgAStDuShCAoWjKT1LICxFBSZFIyqhCUH2C87Y7gb5gNfm4ICkD3woJcCk11CedbzQ0ZIQoo4rBmLe4G00
