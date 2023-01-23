@@ -1,7 +1,9 @@
-import sys
-sys.path.insert(1, '../deps/')
-import IniFile
-
+############ ini code ###############################################
+# Based on https://stackoverflow.com/questions/8884188/how-to-read-and-write-ini-file-with-python3
+import configparser
+class IniFile(ConfigParser):
+  pass
+############ Script body ############################################
 def Main(ini_path):
   ini = IniFile(ini_path)
   """
