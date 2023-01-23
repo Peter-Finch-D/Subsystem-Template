@@ -19,8 +19,8 @@ Lorem ipsum dolor sit amit.</br>
 ## Output
 This subsystem provides an output distributable consisting of _[explanation]_ packaged in _[format]_ format.</br>
 
-[^project_link]: url link
-[^prev_link]: url link
-[^next_link]: url link
-[^diagram1]: http://www.plantuml.com/plantuml/duml/SoWkIImgAStDuShCAoWjKT1LICxFBSZFIyqhCUH2C87Y7gb5gNfm4ICkD3woJcCk11CedbzQ0ZIQoo4rBmLe4G00
-[^diagram2]: http://www.plantuml.com/plantuml/duml/SoWkIImgAStDuShCAoWjKT1LICxFBSZFIyqhCUH2C87Y7gb5gNfm4ICkD3woJcCk11CedbzQ0ZIQoo4rBmLe4G00
+[^project_link]: Project: https://github.com/Peter-Finch-D/Subsystem-Template
+[^prev_link]: Previous subsystem: https://github.com/Peter-Finch-D/Subsystem-Template
+[^next_link]: Next subsystem: https://github.com/Peter-Finch-D/Subsystem-Template
+[^diagram1]: Project workflow diagram: http://www.plantuml.com/plantuml/duml/SoWkIImgAStDuShCAoWjKT1LICxFBSZFIyqhCUH2C87Y7gb5gNfm4ICkD3woJcCk11CedbzQ0ZIQoo4rBmLe4G00
+[^diagram2]: Subsystem workflow diagram: http://www.plantuml.com/plantuml/duml/SoWkIImgAStDuShCAoWjKT1LICxFBSZFIyqhCUH2C87Y7gb5gNfm4ICkD3woJcCk11CedbzQ0ZIQoo4rBmLe4G00
